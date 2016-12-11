@@ -17,3 +17,6 @@ The objects listed in fastmap-data.txt are actually the words in fastmap-wordlis
 word in this list has an ID value of n) and the distances between each pair of objects are the Damerau–
 Levenshtein distances between them. You can try to plot the words onto a 2D plane using your previous
 FastMap solution and see what it looks like.
+
+
+Please refer to PCA, FastMap.pdf for implementation and module understanding.
